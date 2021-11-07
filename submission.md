@@ -9,10 +9,10 @@ You are working as a junior UX designer for a company that sells concert tickets
 \
 The user story behind the mockup is:
 
-A. The user wants to be able to see an overview of available concerts.
-B. The user wants to be able to see how close a concert is to selling out of tickets.
-C. The user wants to be able to buy tickets.
-D. The user wants to be able to quickly access more details about each concert.
+A. The user wants to be able to see an overview of available concerts.  
+B. The user wants to be able to see how close a concert is to selling out of tickets.  
+C. The user wants to be able to buy tickets.  
+D. The user wants to be able to quickly access more details about each concert.  
 E. The user wants to discover concerts based on genre, location, or month.
 
 For each element of the user story above, what needs to be changed in the design?
