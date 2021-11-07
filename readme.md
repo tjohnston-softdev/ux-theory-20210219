@@ -4,7 +4,7 @@ At the beginning of an internship that took place from February to April 2021, I
 
 The exam took most of the day and was timed on a per-question basis so there was no way I could have save and archive every single question. Out of the questions that I was able to save, this was the only one worth sharing publicly.
 
-I took the exam on 19 February 2021. I had just enough spare time on the question to save it locally. After the test was finished that day, I did a rough markdown conversion. I used it as a basis for the public release with very minor formatting changes. The question was uploaded to GitHub and shared publicly on 7 November 2021.
+I took the exam on 19 February 2021. I had just enough spare time on the question to save it locally. After the test was finished that day, I did a rough markdown conversion. I used it as a basis for the public release with minor formatting changes. The question was uploaded to GitHub and shared publicly on 7 November 2021.
 
 [Submission Document](./submission.md)
 
