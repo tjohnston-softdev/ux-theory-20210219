@@ -2,8 +2,11 @@
 
 You are working as a junior UX designer for a company that sells concert tickets. A product manager has asked you for your opinion of a low-fidelity wireframe for a new mobile app. Study this wireframe for the app's home screen and think about how it relates to the user story below.
 
+\
+\
 ![Wireframe Mockup](./mockup.png)
 
+\
 The user story behind the mockup is:
 
 A. The user wants to be able to see an overview of available concerts.
