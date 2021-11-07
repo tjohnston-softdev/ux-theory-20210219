@@ -42,4 +42,3 @@ In answering this question, I am assuming that there will be no 'dark patterns'.
 
 \
 **E:** The home-screen does contain a search bar, so that is a step in the right direction. While the search bar is good for keywords, I do not see any filters for genre, location, etc. I think that it would be best to have a simple search function on the home-screen while having more detailed filters in the search results, or perhaps in a dedicated 'Advanced Search' feature.
-
